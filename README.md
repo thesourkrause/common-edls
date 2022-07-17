@@ -8,28 +8,28 @@ An EDL is just a text file with little formatting. You have the option to add co
 [Palo Alto TechDocs - External Dynamic List](https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-admin/policy/use-an-external-dynamic-list-in-policy/external-dynamic-list)
 # Supported Services
 __This is a list of planned services. it is subject to change.__
-[ ] Amazon Prime Video
-[ ] Amazon Web Services
-[ ] BlueJeans
-[ ] Cisco Webex
-[ ] Dialpad
-[ ] Disney Plus
-[ ] Google Video
-[ ] Google Voice
-[ ] Hulu
-~~[ ] Line2~~ Unable to find public database (no ARIN Assignment or help page)
-[ ] Microsoft 365 
-[ ] Microsoft Azure
-~~[ ] Microsoft Teams~~ (Covered in Microsoft 365)
-[ ] Netflix
-[ ] Pandora Radio
-[ ] Ring Central
-[ ] Skype
-~~[ ] Slack~~ (Too single instance specific - perhaps \*.slack.us/ or \*.enterise.slack.us)
-[ ] Spotify
-[ ] Tidal
-[ ] YouTube
-[ ] Zoom
+- [ ] Amazon Prime Video
+- [ ] Amazon Web Services
+- [ ] BlueJeans
+- [ ] Cisco Webex
+- [ ] Dialpad
+- [ ] Disney Plus
+- [ ] Google Video
+- [ ] Google Voice
+- [ ] Hulu
+- ~~[ ] Line2~~ Unable to find public database (no ARIN Assignment or help page)
+- [ ] Microsoft 365 
+- [ ] Microsoft Azure
+- ~~[ ] Microsoft Teams~~ (Covered in Microsoft 365)
+- [ ] Netflix
+- [ ] Pandora Radio
+- [ ] Ring Central
+- [ ] Skype
+- ~~[ ] Slack~~ (Too single instance specific - perhaps \*.slack.us/ or \*.enterise.slack.us)
+- [ ] Spotify
+- [ ] Tidal
+- [ ] YouTube
+- [ ] Zoom
 ## Methods of Import
 The script will support parsing and grabbing relevant ranges based on the following:
 1. JSON Parsing
