@@ -17,15 +17,15 @@ __This is a list of planned services. it is subject to change.__
 - [ ] Google Video
 - [ ] Google Voice
 - [ ] Hulu
-- ~~[ ] Line2~~ Unable to find public database (no ARIN Assignment or help page)
+- [ ] ~~Line2~~ Unable to find public database (no ARIN Assignment or help page)
 - [ ] Microsoft 365 
 - [ ] Microsoft Azure
-- ~~[ ] Microsoft Teams~~ (Covered in Microsoft 365)
+- [ ] ~~Microsoft Teams~~ (Covered in Microsoft 365)
 - [ ] Netflix
 - [ ] Pandora Radio
 - [ ] Ring Central
 - [ ] Skype
-- ~~[ ] Slack~~ (Too single instance specific - perhaps \*.slack.us/ or \*.enterise.slack.us)
+- [ ] ~~Slack~~ (Too single instance specific - perhaps \*.slack.us or \*.enterise.slack.us)
 - [ ] Spotify
 - [ ] Tidal
 - [ ] YouTube
