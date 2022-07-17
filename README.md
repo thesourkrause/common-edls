@@ -25,7 +25,7 @@ __This is a list of planned services. it is subject to change.__
 - [ ] Pandora Radio
 - [ ] Ring Central
 - [ ] Skype
-- [ ] ~~Slack~~ (Too single instance specific - perhaps \*.slack.us or \*.enterise.slack.us)
+- [ ] ~~Slack~~ (Too single instance specific - perhaps \*.slack.us or \*.enterprise.slack.us)
 - [ ] Spotify
 - [ ] Tidal
 - [ ] YouTube
@@ -59,7 +59,7 @@ Simple place the scheme in the `configs/schemas/` directory and add the schema t
 ```yaml
     services:
         - service-name: my-service
-            method: "json-query"
+            method: "json-parse"
             schema: "my-service-schema.json"
             # Ommitted for brevity...
 ```
